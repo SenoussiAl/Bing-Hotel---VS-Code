@@ -1,0 +1,7 @@
+body {
+  background: url('https://www.1hotels.com/sites/default/files/styles/hero_xl_retreat_collection/public/2021-03/1_hotel01.jpg?itok=AP6n94f_') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
